@@ -16,7 +16,7 @@ function App() {
       </header>
       <main>
         <section className="hero" id="home">
-          <h2>Discover Amazing Places</h2>
+          <h2>Discover Amazing Places in India</h2>
           <p>Find your next adventure trip with curated trips and guides. Explore destinations like Goa and more!</p>
         </section>
         <section className="trips" id="trips">
